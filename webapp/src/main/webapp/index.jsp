@@ -1,4 +1,4 @@
-<h1>
+<!--<h1>
   Creating the first pipeline
 </h1>
 <h2>
@@ -15,10 +15,10 @@
 </5>
 <h6>
   Successfully deployed using Jenkins
-</h6>
+</h6>-->
 
 
-<!--
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -71,4 +71,4 @@
     <script src="contests.js"></script>
 </body>
 </html>
--->
+
