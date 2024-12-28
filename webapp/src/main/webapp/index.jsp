@@ -118,7 +118,7 @@ Although numerous computer languages are used for writing computer applications,
 </h6>-->
 
 
-
+<!--
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -171,4 +171,4 @@ Although numerous computer languages are used for writing computer applications,
     <script src="contests.js"></script>
 </body>
 </html>
-
+-->
