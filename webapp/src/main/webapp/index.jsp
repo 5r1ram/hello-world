@@ -1,4 +1,4 @@
-<!DOCTYPE html>  
+<!--<!DOCTYPE html>  
 <html lang="en">  
 <head>  
  <meta charset="UTF-8">  
@@ -96,7 +96,7 @@ Although numerous computer languages are used for writing computer applications,
  </body>  
   
 </html>  
-
+-->
 
 <!--<h1>
   Creating the first pipeline
@@ -118,7 +118,7 @@ Although numerous computer languages are used for writing computer applications,
 </h6>-->
 
 
-<!--
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -171,4 +171,4 @@ Although numerous computer languages are used for writing computer applications,
     <script src="contests.js"></script>
 </body>
 </html>
--->
+
